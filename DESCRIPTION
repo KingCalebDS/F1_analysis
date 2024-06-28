@@ -1,0 +1,15 @@
+Package: F1Package
+Title: Gear Shifts and Data Rifts Formula 1 Driver Prowess
+Version: 0.0.0.9000
+Authors@R: 
+    person("Caleb", "King", email = "caleblking@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0007-2446-268X"))
+Description: Deepened the understanding of the factors influencing driver performance in Formula 1 (F1). F1 data from the 2023 Singapore Grand Prix, including race results, lap times, and car telemetry, were collected using the FastF1 Python package, which accessed Formula 1's live timing service. This data was made available through the FastF1 plugin, which was hosted on GitHub. The analysis focused on comparing the performance of the top 10 drivers in the race by examining various metrics such as lap times, sector times, speed, brake pressure, and DRS advantages. The goal was to identify patterns, strengths, and weaknesses for these drivers throughout the season by connecting driver statistics to the available lap and car data. This project employed statistical techniques, including one-way and two-way ANOVAs, to extract meaningful insights from the data. These insights could aid in optimizing driver strategies and performance by providing data-driven recommendations such as adjustments to driving techniques, setup preferences, or race strategies.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
+LazyData: true
+URL: https://github.com/KingCalebDS/F1_analysis

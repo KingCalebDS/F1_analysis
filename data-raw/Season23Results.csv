@@ -1,0 +1,441 @@
+round,race,driverCode,laps,grid,totalRaceTime,status
+1,Bahrain,VER,57,1,0 days 01:33:56.736000,Finished
+1,Bahrain,PER,57,2,0 days 00:00:11.987000,Finished
+1,Bahrain,ALO,57,5,0 days 00:00:38.637000,Finished
+1,Bahrain,SAI,57,4,0 days 00:00:48.052000,Finished
+1,Bahrain,HAM,57,7,0 days 00:00:50.977000,Finished
+1,Bahrain,STR,57,8,0 days 00:00:54.502000,Finished
+1,Bahrain,RUS,57,6,0 days 00:00:55.873000,Finished
+1,Bahrain,BOT,57,12,0 days 00:01:12.647000,Finished
+1,Bahrain,GAS,57,20,0 days 00:01:13.753000,Finished
+1,Bahrain,ALB,57,15,0 days 00:01:29.774000,Finished
+1,Bahrain,TSU,57,14,0 days 00:01:30.870000,Finished
+1,Bahrain,SAR,56,16,0 days 00:00:00,+1 Lap
+1,Bahrain,MAG,56,17,0 days 00:00:00,+1 Lap
+1,Bahrain,DEV,56,19,0 days 00:00:00,+1 Lap
+1,Bahrain,HUL,56,10,0 days 00:00:00,+1 Lap
+1,Bahrain,ZHO,56,13,0 days 00:00:00,+1 Lap
+1,Bahrain,NOR,55,11,0 days 00:00:00,+2 Laps
+1,Bahrain,OCO,41,9,0 days 00:00:00,Mechanical
+1,Bahrain,LEC,39,3,0 days 00:00:00,Engine
+1,Bahrain,PIA,13,18,0 days 00:00:00,Electrical
+2,Saudi Arabian,PER,50,1,0 days 01:21:14.894000,Finished
+2,Saudi Arabian,VER,50,15,0 days 00:00:05.355000,Finished
+2,Saudi Arabian,ALO,50,2,0 days 00:00:20.728000,Finished
+2,Saudi Arabian,RUS,50,3,0 days 00:00:25.866000,Finished
+2,Saudi Arabian,HAM,50,7,0 days 00:00:31.065000,Finished
+2,Saudi Arabian,SAI,50,4,0 days 00:00:35.876000,Finished
+2,Saudi Arabian,LEC,50,12,0 days 00:00:43.162000,Finished
+2,Saudi Arabian,OCO,50,6,0 days 00:00:52.832000,Finished
+2,Saudi Arabian,GAS,50,9,0 days 00:00:54.747000,Finished
+2,Saudi Arabian,MAG,50,13,0 days 00:01:04.826000,Finished
+2,Saudi Arabian,TSU,50,16,0 days 00:01:07.494000,Finished
+2,Saudi Arabian,HUL,50,10,0 days 00:01:10.588000,Finished
+2,Saudi Arabian,ZHO,50,11,0 days 00:01:16.060000,Finished
+2,Saudi Arabian,DEV,50,18,0 days 00:01:17.478000,Finished
+2,Saudi Arabian,PIA,50,8,0 days 00:01:25.021000,Finished
+2,Saudi Arabian,SAR,50,20,0 days 00:01:26.293000,Finished
+2,Saudi Arabian,NOR,50,19,0 days 00:01:26.445000,Finished
+2,Saudi Arabian,BOT,49,14,0 days 00:00:00,+1 Lap
+2,Saudi Arabian,ALB,27,17,0 days 00:00:00,Brakes
+2,Saudi Arabian,STR,16,5,0 days 00:00:00,Engine
+3,Australian,VER,58,1,0 days 02:32:38.371000,Finished
+3,Australian,HAM,58,3,0 days 00:00:00.179000,Finished
+3,Australian,ALO,58,4,0 days 00:00:00.769000,Finished
+3,Australian,STR,58,6,0 days 00:00:03.082000,Finished
+3,Australian,PER,58,0,0 days 00:00:03.320000,Finished
+3,Australian,NOR,58,13,0 days 00:00:03.701000,Finished
+3,Australian,HUL,58,10,0 days 00:00:04.939000,Finished
+3,Australian,PIA,58,16,0 days 00:00:05.382000,Finished
+3,Australian,ZHO,58,17,0 days 00:00:05.713000,Finished
+3,Australian,TSU,58,12,0 days 00:00:06.052000,Finished
+3,Australian,BOT,58,0,0 days 00:00:06.513000,Finished
+3,Australian,SAI,58,5,0 days 00:00:06.594000,Finished
+3,Australian,GAS,56,9,0 days 00:00:00,Collision
+3,Australian,OCO,56,11,0 days 00:00:00,Collision
+3,Australian,DEV,56,15,0 days 00:00:00,Collision
+3,Australian,SAR,56,18,0 days 00:00:00,Collision
+3,Australian,MAG,52,14,0 days 00:00:00,Accident
+3,Australian,RUS,17,2,0 days 00:00:00,Engine
+3,Australian,ALB,6,8,0 days 00:00:00,Accident
+3,Australian,LEC,0,7,0 days 00:00:00,Collision
+4,Azerbaijan,PER,51,3,0 days 01:32:42.436000,Finished
+4,Azerbaijan,VER,51,2,0 days 00:00:02.137000,Finished
+4,Azerbaijan,LEC,51,1,0 days 00:00:21.217000,Finished
+4,Azerbaijan,ALO,51,6,0 days 00:00:22.024000,Finished
+4,Azerbaijan,SAI,51,4,0 days 00:00:45.491000,Finished
+4,Azerbaijan,HAM,51,5,0 days 00:00:46.145000,Finished
+4,Azerbaijan,STR,51,9,0 days 00:00:51.617000,Finished
+4,Azerbaijan,RUS,51,11,0 days 00:01:14.240000,Finished
+4,Azerbaijan,NOR,51,7,0 days 00:01:20.376000,Finished
+4,Azerbaijan,TSU,51,8,0 days 00:01:23.862000,Finished
+4,Azerbaijan,PIA,51,10,0 days 00:01:26.501000,Finished
+4,Azerbaijan,ALB,51,12,0 days 00:01:28.623000,Finished
+4,Azerbaijan,MAG,51,16,0 days 00:01:29.729000,Finished
+4,Azerbaijan,GAS,51,17,0 days 00:01:31.332000,Finished
+4,Azerbaijan,OCO,51,0,0 days 00:01:37.794000,Finished
+4,Azerbaijan,SAR,51,14,0 days 00:01:40.943000,Finished
+4,Azerbaijan,HUL,50,0,0 days 00:00:00,+1 Lap
+4,Azerbaijan,BOT,50,13,0 days 00:00:00,+1 Lap
+4,Azerbaijan,ZHO,36,15,0 days 00:00:00,Overheating
+4,Azerbaijan,DEV,9,18,0 days 00:00:00,Accident
+5,Miami,VER,57,9,0 days 01:27:38.241000,Finished
+5,Miami,PER,57,1,0 days 00:00:05.384000,Finished
+5,Miami,ALO,57,2,0 days 00:00:26.305000,Finished
+5,Miami,RUS,57,6,0 days 00:00:33.229000,Finished
+5,Miami,SAI,57,3,0 days 00:00:42.511000,Finished
+5,Miami,HAM,57,13,0 days 00:00:51.249000,Finished
+5,Miami,LEC,57,7,0 days 00:00:52.988000,Finished
+5,Miami,GAS,57,5,0 days 00:00:55.670000,Finished
+5,Miami,OCO,57,8,0 days 00:00:58.123000,Finished
+5,Miami,MAG,57,4,0 days 00:01:02.945000,Finished
+5,Miami,TSU,57,17,0 days 00:01:04.309000,Finished
+5,Miami,STR,57,18,0 days 00:01:04.754000,Finished
+5,Miami,BOT,57,10,0 days 00:01:11.637000,Finished
+5,Miami,ALB,57,11,0 days 00:01:12.861000,Finished
+5,Miami,HUL,57,12,0 days 00:01:14.950000,Finished
+5,Miami,ZHO,57,14,0 days 00:01:18.440000,Finished
+5,Miami,NOR,57,16,0 days 00:01:27.717000,Finished
+5,Miami,DEV,57,15,0 days 00:01:28.949000,Finished
+5,Miami,PIA,56,19,0 days 00:00:00,+1 Lap
+5,Miami,SAR,56,20,0 days 00:00:00,+1 Lap
+6,Monaco,VER,78,1,0 days 01:48:51.980000,Finished
+6,Monaco,ALO,78,2,0 days 00:00:27.921000,Finished
+6,Monaco,OCO,78,3,0 days 00:00:36.990000,Finished
+6,Monaco,HAM,78,5,0 days 00:00:39.062000,Finished
+6,Monaco,RUS,78,8,0 days 00:00:56.284000,Finished
+6,Monaco,LEC,78,6,0 days 00:01:01.890000,Finished
+6,Monaco,GAS,78,7,0 days 00:01:02.362000,Finished
+6,Monaco,SAI,78,4,0 days 00:01:03.391000,Finished
+6,Monaco,NOR,77,10,0 days 00:00:00,+1 Lap
+6,Monaco,PIA,77,11,0 days 00:00:00,+1 Lap
+6,Monaco,BOT,77,15,0 days 00:00:00,+1 Lap
+6,Monaco,DEV,77,12,0 days 00:00:00,+1 Lap
+6,Monaco,ZHO,77,19,0 days 00:00:00,+1 Lap
+6,Monaco,ALB,77,13,0 days 00:00:00,+1 Lap
+6,Monaco,TSU,76,9,0 days 00:00:00,+2 Laps
+6,Monaco,PER,76,20,0 days 00:00:00,+2 Laps
+6,Monaco,HUL,76,18,0 days 00:00:00,+2 Laps
+6,Monaco,SAR,76,16,0 days 00:00:00,+2 Laps
+6,Monaco,MAG,70,17,0 days 00:00:00,Collision damage
+6,Monaco,STR,53,14,0 days 00:00:00,Accident
+7,Spanish,VER,66,1,0 days 01:27:57.940000,Finished
+7,Spanish,HAM,66,4,0 days 00:00:24.090000,Finished
+7,Spanish,RUS,66,12,0 days 00:00:32.389000,Finished
+7,Spanish,PER,66,11,0 days 00:00:35.812000,Finished
+7,Spanish,SAI,66,2,0 days 00:00:45.698000,Finished
+7,Spanish,STR,66,5,0 days 00:01:03.320000,Finished
+7,Spanish,ALO,66,8,0 days 00:01:04.127000,Finished
+7,Spanish,OCO,66,6,0 days 00:01:09.242000,Finished
+7,Spanish,ZHO,66,13,0 days 00:01:11.878000,Finished
+7,Spanish,GAS,66,10,0 days 00:01:13.530000,Finished
+7,Spanish,LEC,66,19,0 days 00:01:14.419000,Finished
+7,Spanish,TSU,66,15,0 days 00:01:15.416000,Finished
+7,Spanish,PIA,65,9,0 days 00:00:00,+1 Lap
+7,Spanish,DEV,65,14,0 days 00:00:00,+1 Lap
+7,Spanish,HUL,65,7,0 days 00:00:00,+1 Lap
+7,Spanish,ALB,65,18,0 days 00:00:00,+1 Lap
+7,Spanish,NOR,65,3,0 days 00:00:00,+1 Lap
+7,Spanish,MAG,65,17,0 days 00:00:00,+1 Lap
+7,Spanish,BOT,65,16,0 days 00:00:00,+1 Lap
+7,Spanish,SAR,65,20,0 days 00:00:00,+1 Lap
+8,Canadian,VER,70,1,0 days 01:33:58.348000,Finished
+8,Canadian,ALO,70,2,0 days 00:00:09.570000,Finished
+8,Canadian,HAM,70,3,0 days 00:00:04.598000,Finished
+8,Canadian,LEC,70,10,0 days 00:00:18.648000,Finished
+8,Canadian,SAI,70,11,0 days 00:00:21.540000,Finished
+8,Canadian,PER,70,12,0 days 00:00:51.028000,Finished
+8,Canadian,ALB,70,9,0 days 00:01:00.813000,Finished
+8,Canadian,OCO,70,6,0 days 00:01:01.692000,Finished
+8,Canadian,STR,70,16,0 days 00:01:04.402000,Finished
+8,Canadian,BOT,70,14,0 days 00:01:04.432000,Finished
+8,Canadian,PIA,70,8,0 days 00:01:05.101000,Finished
+8,Canadian,GAS,70,15,0 days 00:01:05.249000,Finished
+8,Canadian,NOR,70,7,0 days 00:01:08.363000,Finished
+8,Canadian,TSU,70,19,0 days 00:01:13.423000,Finished
+8,Canadian,HUL,69,5,0 days 00:00:00,+1 Lap
+8,Canadian,ZHO,69,20,0 days 00:00:00,+1 Lap
+8,Canadian,MAG,69,13,0 days 00:00:00,+1 Lap
+8,Canadian,DEV,69,17,0 days 00:00:00,+1 Lap
+8,Canadian,RUS,53,4,0 days 00:00:00,Brakes
+8,Canadian,SAR,6,18,0 days 00:00:00,Engine
+9,Austrian,VER,71,1,0 days 01:25:33.607000,Finished
+9,Austrian,LEC,71,2,0 days 00:00:05.155000,Finished
+9,Austrian,PER,71,15,0 days 00:00:17.188000,Finished
+9,Austrian,NOR,71,4,0 days 00:00:26.327000,Finished
+9,Austrian,ALO,71,7,0 days 00:00:30.317000,Finished
+9,Austrian,SAI,71,3,0 days 00:00:31.377000,Finished
+9,Austrian,RUS,71,11,0 days 00:00:48.403000,Finished
+9,Austrian,HAM,71,5,0 days 00:00:49.196000,Finished
+9,Austrian,STR,71,6,0 days 00:00:59.043000,Finished
+9,Austrian,GAS,71,9,0 days 00:01:07.667000,Finished
+9,Austrian,ALB,71,10,0 days 00:01:19.767000,Finished
+9,Austrian,ZHO,70,17,0 days 00:00:00,+1 Lap
+9,Austrian,SAR,70,18,0 days 00:00:00,+1 Lap
+9,Austrian,OCO,70,12,0 days 00:00:00,+1 Lap
+9,Austrian,BOT,70,14,0 days 00:00:00,+1 Lap
+9,Austrian,PIA,70,13,0 days 00:00:00,+1 Lap
+9,Austrian,DEV,70,0,0 days 00:00:00,+1 Lap
+9,Austrian,MAG,70,0,0 days 00:00:00,+1 Lap
+9,Austrian,TSU,70,16,0 days 00:00:00,+1 Lap
+9,Austrian,HUL,12,8,0 days 00:00:00,Power loss
+10,British,VER,52,1,0 days 01:25:16.938000,Finished
+10,British,NOR,52,2,0 days 00:00:03.798000,Finished
+10,British,HAM,52,7,0 days 00:00:06.783000,Finished
+10,British,PIA,52,3,0 days 00:00:07.776000,Finished
+10,British,RUS,52,6,0 days 00:00:11.206000,Finished
+10,British,PER,52,15,0 days 00:00:12.882000,Finished
+10,British,ALO,52,9,0 days 00:00:17.193000,Finished
+10,British,ALB,52,8,0 days 00:00:17.878000,Finished
+10,British,LEC,52,4,0 days 00:00:18.689000,Finished
+10,British,SAI,52,5,0 days 00:00:19.448000,Finished
+10,British,SAR,52,14,0 days 00:00:23.632000,Finished
+10,British,BOT,52,20,0 days 00:00:25.830000,Finished
+10,British,HUL,52,11,0 days 00:00:26.663000,Finished
+10,British,STR,52,12,0 days 00:00:27.483000,Finished
+10,British,ZHO,52,17,0 days 00:00:29.820000,Finished
+10,British,TSU,52,16,0 days 00:00:31.225000,Finished
+10,British,DEV,52,18,0 days 00:00:33.128000,Finished
+10,British,GAS,46,10,0 days 00:00:00,Collision damage
+10,British,MAG,31,19,0 days 00:00:00,Engine
+10,British,OCO,9,13,0 days 00:00:00,Oil leak
+11,Hungarian,VER,70,2,0 days 01:38:08.634000,Finished
+11,Hungarian,NOR,70,3,0 days 00:00:33.731000,Finished
+11,Hungarian,PER,70,9,0 days 00:00:37.603000,Finished
+11,Hungarian,HAM,70,1,0 days 00:00:39.134000,Finished
+11,Hungarian,PIA,70,4,0 days 00:01:02.572000,Finished
+11,Hungarian,RUS,70,18,0 days 00:01:05.825000,Finished
+11,Hungarian,LEC,70,6,0 days 00:01:10.317000,Finished
+11,Hungarian,SAI,70,11,0 days 00:01:11.073000,Finished
+11,Hungarian,ALO,70,8,0 days 00:01:15.709000,Finished
+11,Hungarian,STR,69,14,0 days 00:00:00,+1 Lap
+11,Hungarian,ALB,69,16,0 days 00:00:00,+1 Lap
+11,Hungarian,BOT,69,7,0 days 00:00:00,+1 Lap
+11,Hungarian,RIC,69,13,0 days 00:00:00,+1 Lap
+11,Hungarian,HUL,69,10,0 days 00:00:00,+1 Lap
+11,Hungarian,TSU,69,17,0 days 00:00:00,+1 Lap
+11,Hungarian,ZHO,69,5,0 days 00:00:00,+1 Lap
+11,Hungarian,MAG,69,19,0 days 00:00:00,+1 Lap
+11,Hungarian,SAR,67,20,0 days 00:00:00,Retired
+11,Hungarian,OCO,2,12,0 days 00:00:00,Collision damage
+11,Hungarian,GAS,1,15,0 days 00:00:00,Collision damage
+12,Belgian,VER,44,6,0 days 01:22:30.450000,Finished
+12,Belgian,PER,44,2,0 days 00:00:22.305000,Finished
+12,Belgian,LEC,44,1,0 days 00:00:32.259000,Finished
+12,Belgian,HAM,44,3,0 days 00:00:49.671000,Finished
+12,Belgian,ALO,44,9,0 days 00:00:56.184000,Finished
+12,Belgian,RUS,44,8,0 days 00:01:03.101000,Finished
+12,Belgian,NOR,44,7,0 days 00:01:13.719000,Finished
+12,Belgian,OCO,44,14,0 days 00:01:14.719000,Finished
+12,Belgian,STR,44,10,0 days 00:01:19.340000,Finished
+12,Belgian,TSU,44,11,0 days 00:01:20.221000,Finished
+12,Belgian,GAS,44,12,0 days 00:01:23.084000,Finished
+12,Belgian,BOT,44,13,0 days 00:01:25.191000,Finished
+12,Belgian,ZHO,44,17,0 days 00:01:35.441000,Finished
+12,Belgian,ALB,44,15,0 days 00:01:36.184000,Finished
+12,Belgian,MAG,44,16,0 days 00:01:41.754000,Finished
+12,Belgian,RIC,44,19,0 days 00:01:43.071000,Finished
+12,Belgian,SAR,44,18,0 days 00:01:44.476000,Finished
+12,Belgian,HUL,44,0,0 days 00:01:50.450000,Finished
+12,Belgian,SAI,23,4,0 days 00:00:00,Collision damage
+12,Belgian,PIA,0,5,0 days 00:00:00,Collision damage
+13,Dutch,VER,72,1,0 days 02:24:04.411000,Finished
+13,Dutch,ALO,72,5,0 days 00:00:03.744000,Finished
+13,Dutch,GAS,72,12,0 days 00:00:07.058000,Finished
+13,Dutch,PER,72,7,0 days 00:00:10.068000,Finished
+13,Dutch,SAI,72,6,0 days 00:00:12.541000,Finished
+13,Dutch,HAM,72,13,0 days 00:00:13.209000,Finished
+13,Dutch,NOR,72,2,0 days 00:00:13.232000,Finished
+13,Dutch,ALB,72,4,0 days 00:00:15.155000,Finished
+13,Dutch,PIA,72,8,0 days 00:00:16.580000,Finished
+13,Dutch,OCO,72,16,0 days 00:00:18.346000,Finished
+13,Dutch,STR,72,11,0 days 00:00:20.087000,Finished
+13,Dutch,HUL,72,14,0 days 00:00:20.840000,Finished
+13,Dutch,LAW,72,19,0 days 00:00:26.147000,Finished
+13,Dutch,BOT,72,18,0 days 00:00:27.388000,Finished
+13,Dutch,TSU,72,17,0 days 00:00:29.893000,Finished
+13,Dutch,MAG,72,0,0 days 00:00:31.410000,Finished
+13,Dutch,RUS,72,3,0 days 00:00:55.754000,Finished
+13,Dutch,ZHO,62,15,0 days 00:00:00,Accident
+13,Dutch,LEC,41,9,0 days 00:00:00,Undertray
+13,Dutch,SAR,14,10,0 days 00:00:00,Accident
+14,Italian,VER,51,2,0 days 01:13:41.143000,Finished
+14,Italian,PER,51,5,0 days 00:00:06.064000,Finished
+14,Italian,SAI,51,1,0 days 00:00:11.193000,Finished
+14,Italian,LEC,51,3,0 days 00:00:11.377000,Finished
+14,Italian,RUS,51,4,0 days 00:00:23.028000,Finished
+14,Italian,HAM,51,8,0 days 00:00:42.679000,Finished
+14,Italian,ALB,51,6,0 days 00:00:45.106000,Finished
+14,Italian,NOR,51,9,0 days 00:00:45.449000,Finished
+14,Italian,ALO,51,10,0 days 00:00:46.294000,Finished
+14,Italian,BOT,51,14,0 days 00:01:04.056000,Finished
+14,Italian,LAW,51,12,0 days 00:01:10.638000,Finished
+14,Italian,PIA,51,7,0 days 00:01:13.074000,Finished
+14,Italian,SAR,51,15,0 days 00:01:18.557000,Finished
+14,Italian,ZHO,51,16,0 days 00:01:20.164000,Finished
+14,Italian,GAS,51,17,0 days 00:01:22.510000,Finished
+14,Italian,STR,51,20,0 days 00:01:27.266000,Finished
+14,Italian,HUL,50,13,0 days 00:00:00,+1 Lap
+14,Italian,MAG,50,19,0 days 00:00:00,+1 Lap
+14,Italian,OCO,39,18,0 days 00:00:00,Steering
+14,Italian,TSU,0,11,0 days 00:00:00,Engine
+15,Singapore,SAI,62,1,0 days 01:46:37.418000,Finished
+15,Singapore,NOR,62,4,0 days 00:00:00.812000,Finished
+15,Singapore,HAM,62,5,0 days 00:00:01.269000,Finished
+15,Singapore,LEC,62,3,0 days 00:00:21.177000,Finished
+15,Singapore,VER,62,11,0 days 00:00:21.441000,Finished
+15,Singapore,GAS,62,12,0 days 00:00:38.441000,Finished
+15,Singapore,PIA,62,17,0 days 00:00:41.479000,Finished
+15,Singapore,PER,62,13,0 days 00:00:59.534000,Finished
+15,Singapore,LAW,62,10,0 days 00:01:05.918000,Finished
+15,Singapore,MAG,62,6,0 days 00:01:12.116000,Finished
+15,Singapore,ALB,62,14,0 days 00:01:13.417000,Finished
+15,Singapore,ZHO,62,0,0 days 00:01:23.649000,Finished
+15,Singapore,HUL,62,9,0 days 00:01:26.201000,Finished
+15,Singapore,SAR,62,18,0 days 00:01:26.889000,Finished
+15,Singapore,ALO,62,7,0 days 00:01:27.603000,Finished
+15,Singapore,RUS,61,2,0 days 00:00:00,Accident
+15,Singapore,BOT,51,16,0 days 00:00:00,Technical
+15,Singapore,OCO,42,8,0 days 00:00:00,Gearbox
+15,Singapore,TSU,0,15,0 days 00:00:00,Collision
+15,Singapore,STR,0,0,0 days 00:00:00,Withdrew
+16,Japanese,VER,53,1,0 days 01:30:58.421000,Finished
+16,Japanese,NOR,53,3,0 days 00:00:19.387000,Finished
+16,Japanese,PIA,53,2,0 days 00:00:36.494000,Finished
+16,Japanese,LEC,53,4,0 days 00:00:43.998000,Finished
+16,Japanese,HAM,53,7,0 days 00:00:49.376000,Finished
+16,Japanese,SAI,53,6,0 days 00:00:50.221000,Finished
+16,Japanese,RUS,53,8,0 days 00:00:57.659000,Finished
+16,Japanese,ALO,53,10,0 days 00:01:14.725000,Finished
+16,Japanese,OCO,53,14,0 days 00:01:19.678000,Finished
+16,Japanese,GAS,53,12,0 days 00:01:23.155000,Finished
+16,Japanese,LAW,52,11,0 days 00:00:00,+1 Lap
+16,Japanese,TSU,52,9,0 days 00:00:00,+1 Lap
+16,Japanese,ZHO,52,19,0 days 00:00:00,+1 Lap
+16,Japanese,HUL,52,18,0 days 00:00:00,+1 Lap
+16,Japanese,MAG,52,15,0 days 00:00:00,+1 Lap
+16,Japanese,ALB,26,13,0 days 00:00:00,Collision damage
+16,Japanese,SAR,22,0,0 days 00:00:00,Collision damage
+16,Japanese,STR,20,17,0 days 00:00:00,Rear wing
+16,Japanese,PER,15,5,0 days 00:00:00,Collision damage
+16,Japanese,BOT,7,16,0 days 00:00:00,Collision damage
+17,Qatar,VER,57,1,0 days 01:27:39.168000,Finished
+17,Qatar,PIA,57,6,0 days 00:00:04.833000,Finished
+17,Qatar,NOR,57,10,0 days 00:00:05.969000,Finished
+17,Qatar,RUS,57,2,0 days 00:00:34.119000,Finished
+17,Qatar,LEC,57,5,0 days 00:00:38.976000,Finished
+17,Qatar,ALO,57,4,0 days 00:00:49.032000,Finished
+17,Qatar,OCO,57,8,0 days 00:01:02.390000,Finished
+17,Qatar,BOT,57,9,0 days 00:01:06.563000,Finished
+17,Qatar,ZHO,57,19,0 days 00:01:16.127000,Finished
+17,Qatar,PER,57,0,0 days 00:01:20.181000,Finished
+17,Qatar,STR,57,16,0 days 00:01:21.652000,Finished
+17,Qatar,GAS,57,7,0 days 00:01:22.300000,Finished
+17,Qatar,ALB,57,13,0 days 00:01:31.014000,Finished
+17,Qatar,MAG,56,18,0 days 00:00:00,+1 Lap
+17,Qatar,TSU,56,11,0 days 00:00:00,+1 Lap
+17,Qatar,HUL,56,14,0 days 00:00:00,+1 Lap
+17,Qatar,LAW,56,17,0 days 00:00:00,+1 Lap
+17,Qatar,SAR,40,15,0 days 00:00:00,Illness
+17,Qatar,HAM,0,3,0 days 00:00:00,Collision
+17,Qatar,SAI,0,12,0 days 00:00:00,Fuel leak
+18,United States,VER,56,6,0 days 01:35:21.362000,Finished
+18,United States,NOR,56,2,0 days 00:00:10.730000,Finished
+18,United States,SAI,56,4,0 days 00:00:15.134000,Finished
+18,United States,PER,56,9,0 days 00:00:18.460000,Finished
+18,United States,RUS,56,5,0 days 00:00:24.999000,Finished
+18,United States,GAS,56,7,0 days 00:00:47.996000,Finished
+18,United States,STR,56,0,0 days 00:00:48.696000,Finished
+18,United States,TSU,56,11,0 days 00:01:14.385000,Finished
+18,United States,ALB,56,15,0 days 00:01:26.714000,Finished
+18,United States,SAR,56,16,0 days 00:01:27.998000,Finished
+18,United States,HUL,56,0,0 days 00:01:29.904000,Finished
+18,United States,BOT,56,13,0 days 00:01:38.601000,Finished
+18,United States,ZHO,55,12,0 days 00:00:00,+1 Lap
+18,United States,MAG,55,0,0 days 00:00:00,+1 Lap
+18,United States,RIC,55,14,0 days 00:00:00,+1 Lap
+18,United States,ALO,49,0,0 days 00:00:00,Undertray
+18,United States,PIA,10,10,0 days 00:00:00,Radiator
+18,United States,OCO,6,8,0 days 00:00:00,Collision damage
+18,United States,HAM,56,3,0 days 00:00:00,Disqualified
+18,United States,LEC,56,1,0 days 00:00:00,Disqualified
+19,Mexico City,VER,71,3,0 days 02:02:30.814000,Finished
+19,Mexico City,HAM,71,6,0 days 00:00:13.875000,Finished
+19,Mexico City,LEC,71,1,0 days 00:00:23.124000,Finished
+19,Mexico City,SAI,71,2,0 days 00:00:27.154000,Finished
+19,Mexico City,NOR,71,17,0 days 00:00:33.266000,Finished
+19,Mexico City,RUS,71,8,0 days 00:00:41.020000,Finished
+19,Mexico City,RIC,71,4,0 days 00:00:41.570000,Finished
+19,Mexico City,PIA,71,7,0 days 00:00:43.104000,Finished
+19,Mexico City,ALB,71,14,0 days 00:00:48.573000,Finished
+19,Mexico City,OCO,71,15,0 days 00:01:02.879000,Finished
+19,Mexico City,GAS,71,11,0 days 00:01:06.208000,Finished
+19,Mexico City,TSU,71,18,0 days 00:01:18.982000,Finished
+19,Mexico City,HUL,71,12,0 days 00:01:20.309000,Finished
+19,Mexico City,ZHO,71,10,0 days 00:01:21.676000,Finished
+19,Mexico City,BOT,71,9,0 days 00:01:25.597000,Finished
+19,Mexico City,SAR,70,19,0 days 00:00:00,Retired
+19,Mexico City,STR,66,0,0 days 00:00:00,Collision damage
+19,Mexico City,ALO,47,13,0 days 00:00:00,Withdrew
+19,Mexico City,MAG,31,16,0 days 00:00:00,Accident
+19,Mexico City,PER,1,5,0 days 00:00:00,Collision damage
+20,São Paulo,VER,71,1,0 days 01:56:48.894000,Finished
+20,São Paulo,NOR,71,6,0 days 00:00:08.277000,Finished
+20,São Paulo,ALO,71,4,0 days 00:00:34.155000,Finished
+20,São Paulo,PER,71,9,0 days 00:00:34.208000,Finished
+20,São Paulo,STR,71,3,0 days 00:00:40.845000,Finished
+20,São Paulo,SAI,71,7,0 days 00:00:50.188000,Finished
+20,São Paulo,GAS,71,15,0 days 00:00:56.093000,Finished
+20,São Paulo,HAM,71,5,0 days 00:01:02.859000,Finished
+20,São Paulo,TSU,71,16,0 days 00:01:09.880000,Finished
+20,São Paulo,OCO,70,14,0 days 00:00:00,+1 Lap
+20,São Paulo,SAR,70,19,0 days 00:00:00,+1 Lap
+20,São Paulo,HUL,70,11,0 days 00:00:00,+1 Lap
+20,São Paulo,RIC,70,17,0 days 00:00:00,+1 Lap
+20,São Paulo,PIA,69,10,0 days 00:00:00,+2 Laps
+20,São Paulo,RUS,57,8,0 days 00:00:00,Overheating
+20,São Paulo,BOT,39,18,0 days 00:00:00,Engine
+20,São Paulo,ZHO,22,20,0 days 00:00:00,Engine
+20,São Paulo,MAG,0,12,0 days 00:00:00,Collision
+20,São Paulo,ALB,0,13,0 days 00:00:00,Collision
+20,São Paulo,LEC,0,0,0 days 00:00:00,Engine
+21,Las Vegas,VER,50,2,0 days 01:29:08.289000,Finished
+21,Las Vegas,LEC,50,1,0 days 00:00:02.070000,Finished
+21,Las Vegas,PER,50,11,0 days 00:00:02.241000,Finished
+21,Las Vegas,OCO,50,16,0 days 00:00:18.665000,Finished
+21,Las Vegas,STR,50,19,0 days 00:00:20.067000,Finished
+21,Las Vegas,SAI,50,12,0 days 00:00:20.834000,Finished
+21,Las Vegas,HAM,50,10,0 days 00:00:21.755000,Finished
+21,Las Vegas,RUS,50,3,0 days 00:00:23.091000,Finished
+21,Las Vegas,ALO,50,9,0 days 00:00:25.964000,Finished
+21,Las Vegas,PIA,50,18,0 days 00:00:29.496000,Finished
+21,Las Vegas,GAS,50,4,0 days 00:00:34.270000,Finished
+21,Las Vegas,ALB,50,5,0 days 00:00:43.398000,Finished
+21,Las Vegas,MAG,50,8,0 days 00:00:44.825000,Finished
+21,Las Vegas,RIC,50,14,0 days 00:00:48.525000,Finished
+21,Las Vegas,ZHO,50,17,0 days 00:00:50.162000,Finished
+21,Las Vegas,SAR,50,6,0 days 00:00:50.882000,Finished
+21,Las Vegas,BOT,50,7,0 days 00:01:25.350000,Finished
+21,Las Vegas,TSU,46,20,0 days 00:00:00,Gearbox
+21,Las Vegas,HUL,45,13,0 days 00:00:00,Engine
+21,Las Vegas,NOR,2,15,0 days 00:00:00,Accident
+22,Abu Dhabi,VER,58,1,0 days 01:27:02.624000,Finished
+22,Abu Dhabi,LEC,58,2,0 days 00:00:17.993000,Finished
+22,Abu Dhabi,RUS,58,4,0 days 00:00:20.328000,Finished
+22,Abu Dhabi,PER,58,9,0 days 00:00:21.453000,Finished
+22,Abu Dhabi,NOR,58,5,0 days 00:00:24.284000,Finished
+22,Abu Dhabi,PIA,58,3,0 days 00:00:31.487000,Finished
+22,Abu Dhabi,ALO,58,7,0 days 00:00:39.512000,Finished
+22,Abu Dhabi,TSU,58,6,0 days 00:00:43.088000,Finished
+22,Abu Dhabi,HAM,58,11,0 days 00:00:44.424000,Finished
+22,Abu Dhabi,STR,58,13,0 days 00:00:55.632000,Finished
+22,Abu Dhabi,RIC,58,15,0 days 00:00:56.229000,Finished
+22,Abu Dhabi,OCO,58,12,0 days 00:01:06.373000,Finished
+22,Abu Dhabi,GAS,58,10,0 days 00:01:10.360000,Finished
+22,Abu Dhabi,ALB,58,14,0 days 00:01:13.184000,Finished
+22,Abu Dhabi,HUL,58,8,0 days 00:01:23.696000,Finished
+22,Abu Dhabi,SAR,58,20,0 days 00:01:27.791000,Finished
+22,Abu Dhabi,ZHO,58,19,0 days 00:01:29.422000,Finished
+22,Abu Dhabi,SAI,57,16,0 days 00:00:00,Retired
+22,Abu Dhabi,BOT,57,18,0 days 00:00:00,+1 Lap
+22,Abu Dhabi,MAG,57,17,0 days 00:00:00,+1 Lap
