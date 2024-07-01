@@ -42,6 +42,13 @@ The data has been preprocessed to ensure consistency and usability.
 Lap times and sector times have been converted from string format to
 seconds using the LapTimeToSeconds function (available in the R directory).
 }
+\section{Data Collection}{
+
+The raw data for this package was collected using a Python script located in
+the data-raw directory. This script scraped F1 race data from \link{source} and
+saved it as CSV files, which were then processed in R.
+}
+
 \examples{
 data(LapData)
 head(LapData)

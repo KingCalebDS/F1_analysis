@@ -10,6 +10,11 @@
 #' metrics for the 2023 Singapore Grand Prix, offering detailed insights
 #' into driver and team performance throughout the race.
 #'
+#' @section Data Collection:
+#' The raw data for this package was collected using a Python script located in
+#' the data-raw directory. This script scraped F1 race data from [source] and
+#' saved it as CSV files, which were then processed in R.
+#'
 #' @details
 #' The data has been preprocessed to ensure consistency and usability.
 #' Lap times and sector times have been converted from string format to
