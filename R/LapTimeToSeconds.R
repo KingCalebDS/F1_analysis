@@ -1,4 +1,19 @@
-#lap time to seconds function
+#' Convert lap time strings to seconds
+#'
+#' This function takes a vector of lap time strings and converts each element
+#' to the total number of seconds. It handles special cases like "NaT" (Not a Time)
+#' and lap times with a "0 days" prefix.
+#'
+#' The function supports lap time formats like "HH:MM:SS" or "0 days HH:MM:SS".
+#' It returns a numeric vector of the same length as the input, where each element
+#' represents the total seconds for the corresponding lap time.
+#'
+#' @param lap_time_vector A character vector of lap time strings
+#' @return A numeric vector of lap times converted to total seconds
+#' @examples
+#' lap_times <- c("01:23:45", "00:59:59", "NaT", "0 days 02:30:00")
+#' lap_time_to_seconds(lap_times)
+#' @export
 lap_time_to_seconds <- function(lap_time_vector) {
   # Initialize an empty vector to store the total lap times
   total_seconds_vector <- numeric(length(lap_time_vector))
